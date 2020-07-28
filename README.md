@@ -12,8 +12,6 @@ Hi, I'm Juan Carbajal 🙋🏽‍ I am a Junior Developer with Urban TXT, a nonp
 - Pronouns: He/Him/His
 
 - Fun Fact: I ran two marathons in my teens 🏃🏽‍♂️ 🏃🏽‍♂️ 🏃🏽‍♂️
-
-- 
 <!--
 **juancarbajaltxt/juancarbajaltxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
