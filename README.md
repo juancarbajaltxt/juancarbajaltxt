@@ -1,5 +1,9 @@
 ![My GitHub Banner](https://github.com/juancarbajaltxt/juancarbajaltxt/raw/master/GitHub-Banner.gif)
+Hi, I'm Juan Carbajal 🙋🏽‍ I am a Junior Developer with Urban TXT, a nonprofit in South Central Los Angeles that gives middle and high school students the skills and tools they need to enter the tech industry📱 💻 💡
 
+- I currently work a lot with the MEAN Stack 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
+
+- I'm currently trying to learn GoLang and SQL 🔬 🔬 🔬
 <!--
 **juancarbajaltxt/juancarbajaltxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
